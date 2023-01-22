@@ -1,7 +1,7 @@
 {
 	"scripts": {
-    "start": "json-server --ro db.json",
-    "dev": "json-server --ro db.json"
+    "start": "json-server db.json",
+    "dev": "json-server db.json"
 	},
 	"dependencies": {
 		"json-server": "^0.17.1"
